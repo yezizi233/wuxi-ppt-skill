@@ -1,0 +1,25 @@
+{
+  "skill_name": "wuxi-bd-ppt-playbook",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Analyze the PPT screenshots in E:\\Downloads\\wuxi project\\wuxi ppt final and distill the WuXi-style BD deck design system, chapter logic, page templates, and reusable playbook.",
+      "expected_output": "A structured analysis with deck goal, audience, chapter logic, page role table, visual system, reusable templates, evidence gaps, and direct observation vs inference labels.",
+      "files": [
+        "E:\\Downloads\\wuxi project\\wuxi ppt final"
+      ]
+    },
+    {
+      "id": 2,
+      "prompt": "Generate a WuXi-style biopharma market understanding report outline for the Australia market for BD target landscaping. Do not create a PPT file yet; provide a slide-by-slide blueprint.",
+      "expected_output": "A WuXi-style deck blueprint with executive summary, market overview, industry insights, target profile, enabler/VC, appendix, evidence requirements, page types, and visual rules per slide.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "Turn this company dossier into a WuXi-style Target Profile + Key Stakeholder page plan: a Singapore early clinical biotech working on an RNA delivery platform, Series A completed in 2025, CEO has MNC BD background, CSO came from A*STAR.",
+      "expected_output": "A target profile and stakeholder page plan covering organization intro, platform/product, timeline, core capability, key people, WuXi entry point, risks, evidence needs, and visual layout rules.",
+      "files": []
+    }
+  ]
+}
